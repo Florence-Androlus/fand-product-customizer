@@ -1,0 +1,16 @@
+{
+    "translation-revision-date": "2026-06-19 18:00:00+0000",
+    "generator": "WordPress",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": { "domain": "messages", "lang": "fr", "plural-forms": "nplurals=2; plural=(n > 1);" },
+            "Customize your product": ["Personnalisez votre produit"],
+            "Your customization *": ["Votre personnalisation *"],
+            "Enter text": ["Entrez le texte"],
+            "Your text here": ["Votre texte ici"],
+            "Choose a font:": ["Choisir la police :"],
+            "-- Choose a font --": ["-- Choisissez une police --"]
+        }
+    }
+}

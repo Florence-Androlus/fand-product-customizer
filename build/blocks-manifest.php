@@ -1,0 +1,22 @@
+<?php
+// This file is generated. Do not modify it manually.
+return array(
+	'build' => array(
+		'apiVersion' => 3,
+		'name' => 'fand/product-customizer',
+		'version' => '1.0.0',
+		'title' => 'Fand Product Customizer',
+		'category' => 'widgets',
+		'icon' => 'admin-customizer',
+		'description' => 'Bloc de personnalisation produit (texte, police) pour WooCommerce.',
+		'keywords' => array(
+			'personnalisation',
+			'customizer',
+			'texte'
+		),
+		'textdomain' => 'fand-product-customizer',
+		'render' => 'file:./render.php',
+		'editorScript' => 'file:./index.js',
+		'viewScript' => 'file:./view.js'
+	)
+);

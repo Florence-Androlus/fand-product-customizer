@@ -1,0 +1,41 @@
+# Copyright (C) 2026 Fand
+# This file is distributed under the same license as the Fand Product Customizer plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fand Product Customizer 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fand-product-customizer\n"
+"POT-Creation-Date: 2026-06-19 18:00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: render.php:17
+msgid "Customization block – displayed on the product page."
+msgstr ""
+
+#: render.php:28
+msgid "Customize your product"
+msgstr ""
+
+#: render.php:30
+msgid "Your customization *"
+msgstr ""
+
+#: render.php:37
+msgid "Enter text"
+msgstr ""
+
+#: render.php:41
+msgid "Your text here"
+msgstr ""
+
+#: render.php:44
+msgid "Choose a font:"
+msgstr ""
+
+#: render.php:46
+msgid "-- Choose a font --"
+msgstr ""
