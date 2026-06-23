@@ -129,6 +129,19 @@ In the current version, the limit is set to 15 characters. This will be configur
 4. Personalization (text + font) displayed in the cart under the product name.
 5. Order detail in the back office showing the customer's personalization.
 
+== Source Code ==
+
+This plugin uses npm and webpack to compile JavaScript and CSS assets.
+The full source code is publicly available on GitHub:
+
+https://github.com/Florence-Androlus/fand-product-customizer
+
+To rebuild the assets from source:
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm run build`
+
 == Changelog ==
 
 = 1.0.0 =

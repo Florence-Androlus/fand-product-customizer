@@ -161,6 +161,22 @@ Dans cette version, la limite est fixée à 15 caractères. Cette limite sera co
 
 5. Détails de la commande dans l'interface d'administration affichant la personnalisation du client.
 
+== Code source ==
+
+Ce plugin utilise npm et webpack pour compiler les ressources JavaScript et CSS.
+
+Le code source complet est disponible publiquement sur GitHub :
+
+https://github.com/Florence-Androlus/fand-product-customizer
+
+Pour reconstruire les ressources à partir du code source :
+
+1. Clonez le dépôt.
+
+2. Exécutez `npm install`.
+
+3. Exécutez `npm run build`.
+
 == Journal des modifications ==
 
 = 1.0.0 =
