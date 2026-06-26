@@ -11,31 +11,56 @@ msgstr ""
 "PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 
-#: render.php:17
-msgid "Customization block – displayed on the product page."
+#: build/render.php:17
+msgid "Customization block - displayed on the product page."
 msgstr ""
 
-#: render.php:28
+#: build/render.php:28
 msgid "Customize your product"
 msgstr ""
 
-#: render.php:30
-msgid "Your customization *"
+#: build/render.php:30
+msgid "Your personalization *"
 msgstr ""
 
-#: render.php:37
-msgid "Enter text"
+#: build/render.php:37
+msgid "Enter your text"
 msgstr ""
 
-#: render.php:41
+#: build/render.php:41
 msgid "Your text here"
 msgstr ""
 
-#: render.php:44
+#: build/render.php:44
 msgid "Choose a font:"
 msgstr ""
 
-#: render.php:46
+#: build/render.php:46
 msgid "-- Choose a font --"
+msgstr ""
+
+#: includes/Admin/ProductOptionsTab.php:45
+msgid "Enable personalization"
+msgstr ""
+
+#: includes/Admin/ProductOptionsTab.php:46
+msgid "Check to display the personalization block on this product."
+msgstr ""
+
+#: includes/Admin/FontsMetaBox.php:75
+msgid "Fonts available for this product"
+msgstr ""
+
+#: includes/Controllers/CartController.php:68
+msgid "Personalization"
+msgstr ""
+
+#: includes/Controllers/CartController.php:72
+msgid "%1$s (Font: %2$s)"
+msgstr ""
+
+#: includes/Controllers/OrderController.php:52
+msgid "Personalization"
 msgstr ""

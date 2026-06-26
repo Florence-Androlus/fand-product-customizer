@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       Fand Product Customizer
- * Description:       Permet aux clients de personnaliser un produit (texte, police) directement sur la fiche produit WooCommerce.
+ * Description:       Let customers personalize a product (text, font) directly on the WooCommerce product page.
  * Version:           1.0.0
  * Requires at least: 6.8
  * Tested up to:      7.0

@@ -41,10 +41,9 @@ class ProductOptionsTab {
 	public function render_checkbox() {
 		woocommerce_wp_checkbox(
 			array(
-				'id'          => self::ENABLED_META_KEY,
-				'label'       => __( 'Activer la personnalisation', 'fand-product-customizer' ),
-				'description' => __( 'Cochez pour afficher le bloc de personnalisation sur ce produit.', 'fand-product-customizer' ),
-			)
+				'id'        	=> self::ENABLED_META_KEY,
+				'label' 		=> __( 'Enable customization', 'fand-product-customizer' ),
+				'description'	=> __( 'Check to display the customization block on this product.', 'fand-product-customizer' ),)
 		);
 	}
 

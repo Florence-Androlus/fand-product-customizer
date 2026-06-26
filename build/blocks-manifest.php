@@ -8,11 +8,13 @@ return array(
 		'title' => 'Fand Product Customizer',
 		'category' => 'widgets',
 		'icon' => 'admin-customizer',
-		'description' => 'Bloc de personnalisation produit (texte, police) pour WooCommerce.',
+		'description' => 'Product personalization block (text, font) for WooCommerce.',
 		'keywords' => array(
-			'personnalisation',
+			'personalization',
 			'customizer',
-			'texte'
+			'text',
+			'font',
+			'woocommerce'
 		),
 		'textdomain' => 'fand-product-customizer',
 		'render' => 'file:./render.php',

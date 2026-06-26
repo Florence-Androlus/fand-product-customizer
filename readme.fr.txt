@@ -1,13 +1,13 @@
 === Fand Product Customizer ===
-Contributors: fandevelop
-Donate link: https://fan-develop.fr
-Étiquettes : WooCommerce, personnalisateur de produits, personnalisation, texte personnalisé, police
-Version minimale requise : 6.8
-Testé jusqu’à : 7.0
-PHP requis : 7.4
-Version stable : 1.0.0
-Licence : GPL-2.0 ou ultérieure
-URI de la licence : https://www.gnu.org/licenses/gpl-2.0.html
+Contributors:               fandevelop
+Donate link:                https://fan-develop.fr
+Étiquettes :                WooCommerce, personnalisateur de produits, personnalisation, texte personnalisé, police
+Version minimale requise :  6.8
+Testé jusqu’à :             7.0
+PHP requis :                7.4
+Version stable :            1.0.0
+Licence :                   GPL-2.0 ou ultérieure
+URI de la licence :         https://www.gnu.org/licenses/gpl-2.0.html
 
 Ajoutez un bloc de personnalisation de texte à vos pages produits WooCommerce. Permettez à vos clients de choisir un texte et une police personnalisés, enregistrés directement dans la commande.
 

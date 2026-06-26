@@ -1,13 +1,13 @@
 === Fand Product Customizer ===
-Contributors: fandevelop
-Donate link: https://fan-develop.fr
-Tags:              woocommerce, product customizer, personalization, custom text, font
-Requires at least: 6.8
-Tested up to:      7.0
-Requires PHP:      7.4
-Stable tag:        1.0.0
-License:           GPL-2.0-or-later
-License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+Contributors:       fandevelop
+Donate link:        https://fan-develop.fr
+Tags:               woocommerce, product customizer, personalization, custom text, font
+Requires at least:  6.8
+Tested up to:       7.0
+Requires PHP:       7.4
+Stable tag:         1.0.0
+License:            GPL-2.0-or-later
+License URI:        https://www.gnu.org/licenses/gpl-2.0.html
 
 Add a text personalization block to your WooCommerce product pages. Let your customers choose a custom text and font, saved directly in the order.
 

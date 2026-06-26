@@ -72,7 +72,7 @@ class FontsMetaBox {
 	public function add_meta_box() {
 		add_meta_box(
 			self::META_BOX_ID,
-			__( 'Polices disponibles pour ce produit', 'fand-product-customizer' ),
+			__( 'Fonts available for this product', 'fand-product-customizer' ),
 			array( $this, 'render_meta_box' ),
 			'product',
 			'side',

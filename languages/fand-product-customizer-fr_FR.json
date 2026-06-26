@@ -5,12 +5,15 @@
     "locale_data": {
         "messages": {
             "": { "domain": "messages", "lang": "fr", "plural-forms": "nplurals=2; plural=(n > 1);" },
+            "Customization block - displayed on the product page.": ["Bloc de personnalisation - affiché sur la page produit."],
             "Customize your product": ["Personnalisez votre produit"],
-            "Your customization *": ["Votre personnalisation *"],
-            "Enter text": ["Entrez le texte"],
+            "Your personalization *": ["Votre personnalisation *"],
+            "Enter your text": ["Entrez le texte"],
             "Your text here": ["Votre texte ici"],
             "Choose a font:": ["Choisir la police :"],
-            "-- Choose a font --": ["-- Choisissez une police --"]
+            "-- Choose a font --": ["-- Choisissez une police --"],
+            "Personalization": ["Personnalisation"],
+            "%1$s (Font: %2$s)": ["%1$s (Police : %2$s)"]
         }
     }
 }
